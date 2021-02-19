@@ -2,5 +2,5 @@ This is a [Homebrew](brew.sh) tap for some things I make, like [Yazt](https://gi
 
 Use it by adding the following:
 ```
-brew tap bashelled/homebrew
+brew tap bashelled/brew
 ```
